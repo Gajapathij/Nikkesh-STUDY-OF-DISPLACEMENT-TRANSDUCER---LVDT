@@ -5,7 +5,8 @@ To study the operation of LVDT- Linear Variable Differential Transformer
 OBJECTIVE:
 1. To study the basic principle of LVDT.
 2. Study of signal conditioning circuit.
-3. Study of LVDT as transducer.
+3. 
+4. Study of LVDT as transducer.
 
 Apparatus Required
 <img width="620" height="167" alt="image" src="https://github.com/user-attachments/assets/6fb40928-c719-4422-8968-c8c13cffcb7f" />
